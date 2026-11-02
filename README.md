@@ -8,15 +8,16 @@ Import it into your browser once, and every resource is one click away.
 </p>
 
 <p align="center">
-  <a href="https://github.com/OSA98/uiux-library/releases/latest/download/UIUX-Library-Bookmarks.html"><b>⬇️ Download the bookmarks file</b></a>
+  <a href="https://github.com/OSA98/uiux-library/raw/main/UIUX-Library-Bookmarks.zip"><b>⬇️ Download the bookmarks file (.zip)</b></a>
 </p>
 
 ---
 
 ## How to import it
 
-1. **Download** [`UIUX-Library-Bookmarks.html`](https://github.com/OSA98/uiux-library/releases/latest/download/UIUX-Library-Bookmarks.html).
-2. **Import** it into your browser:
+1. **Download** [`UIUX-Library-Bookmarks.zip`](https://github.com/OSA98/uiux-library/raw/main/UIUX-Library-Bookmarks.zip) and unzip it. You'll get `UIUX-Library-Bookmarks.html`.
+   *Prefer no zip? Open [`UIUX-Library-Bookmarks.html`](UIUX-Library-Bookmarks.html) and click the **Download raw file** button (⬇️) at the top right of the file.*
+2. **Import** the `.html` file into your browser:
 
 | Browser | Steps |
 |---|---|
@@ -62,7 +63,7 @@ If this library helps you, give the repo a ⭐ and share it with someone learnin
 مكتبة فيها **1062 مصدر UI/UX** متقسمين على 6 أقسام، في ملف بوك مارك واحد.
 
 **إزاي تستخدمها:**
-1. نزّل الملف من [هنا](https://github.com/OSA98/uiux-library/releases/latest/download/UIUX-Library-Bookmarks.html).
+1. نزّل الملف من [هنا](https://github.com/OSA98/uiux-library/raw/main/UIUX-Library-Bookmarks.zip) وفك الضغط عنه، هتلاقي جواه `UIUX-Library-Bookmarks.html`.
 2. في كروم: اضغط `Ctrl+Shift+O` (على الماك `Cmd+Option+B`).
 3. من النقط التلاتة فوق على اليمين اختار **Import bookmarks**، واختار الملف.
 
